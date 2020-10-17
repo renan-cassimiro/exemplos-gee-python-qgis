@@ -4,11 +4,8 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/github_username/repo_name">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
-  </a>
 
-  <h3 align="center"> Integração entre Google Earth Engine e QGIS utilizando Python.</h3>
+  <h2 align="center"> Integração entre Google Earth Engine e QGIS utilizando Python.</h2>
 
   <p align="center">
      Implementações básicas do Google Earth Engine transcritas de JavaScript para Python.
